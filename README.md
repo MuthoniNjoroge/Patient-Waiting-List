@@ -11,7 +11,6 @@ Got the data in different CSV files for the inpatient and outpatient, worked on 
 
 The image below shows inpatient and outpatient tables are hidden and are combined into one table. IE, All Data.
 
-
 ![](tables.png)
 
 Created a new table for the media and Average and another one for the  Mapping specialty.
