@@ -9,6 +9,6 @@ This is my first Power BI data analysis project, Did it as an introduction to th
 ### Data Sourcing and Transformation
 Got the data in different CSV files for the inpatient and outpatient, worked on combining them into one. 
 The image below shows inpatient and outpatient tables are hidden and are combined into one table. IE, All Data
-![]()
+![](tables.png)
 
 
