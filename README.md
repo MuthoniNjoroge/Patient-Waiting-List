@@ -22,6 +22,14 @@ Created a new table for the media and Average and another one for the  Mapping s
 Power BI automatically generated the model to show a relationship between the Mapping Speciality table and the All Data table, creating a one to many realationship between the two tables.
 ![](All_data_model.png)
 
+### Visualization and Analysis
+From the visual, we can see the waiting list has increased, and the outpatient number is higher than the inpatient which is correct because most of the people in a hospital are treated and sent home.
+DAX, Drillthrough tooltip, and buttons are utilized in the dashboard.
+| ![](mapping_specialty.png) | ![](calc_Methd.png)|![](calc_Methd.png |
+|--------------- -|------------------|
+
+
+
 
 
 
