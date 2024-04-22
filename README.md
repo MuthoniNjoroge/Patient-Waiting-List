@@ -13,10 +13,9 @@ The image below shows inpatient and outpatient tables are hidden and are combine
 
 
 ![](tables.png)
-![](mappingspecialty.png)
 
 Created a new table for the media and Average and another one for the  Mapping specialty.
-| ![](mapping specialty.png) | ![](calc Methd.png)|
+| ![](mapping_specialty.png) | ![](calc Methd.png)|
 |-----------------|------------------|
 
 
