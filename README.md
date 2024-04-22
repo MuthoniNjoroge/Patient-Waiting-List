@@ -19,7 +19,7 @@ Created a new table for the media and Average and another one for the  Mapping s
 |-----------------|------------------|
 
 ### Data Modeling.
-Power BI automatically generated the model to show a relationship between the Mapping Speciality table and the All Data table
+Power BI automatically generated the model to show a relationship between the Mapping Speciality table and the All Data table, creating a one to many realationship between the two tables.
 ![](All_data_model.png)
 
 
