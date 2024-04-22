@@ -25,7 +25,7 @@ Power BI automatically generated the model to show a relationship between the Ma
 ### Visualization and Analysis
 From the visual, we can see the waiting list has increased, and the outpatient number is higher than the inpatient which is correct because most of the people in a hospital are treated and sent home.
 DAX, Drillthrough tooltip, and buttons are utilized in the dashboard.
-| ![](dash_summary.png) | ![](calc_Methd.png)|![](calc_Methd.png) |
+| ![](dash_summary.png) | ![](details.png)|![](calc_Methd.png) |
 |--------------- -|------------------|
 
 
