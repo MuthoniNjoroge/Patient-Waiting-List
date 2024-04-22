@@ -27,6 +27,10 @@ From the visual, we can see the waiting list has increased, and the outpatient n
 DAX, Drillthrough tooltip, and buttons are utilized in the dashboard.
 | ![](dash_summary.png)|![](details.png)|![](tooltip.png)|
 
+### Conclusion and Recommendation
+Through the use of KPIs tracking and visualization, I was able to show that there is a growth in the total waiting list in the data scope from 2018-2022. I was also able to show the top five specialities in the hospital. Without more knowledge of the hospital from which the data was gotten am not able to give a recommendation. 
+
+
 
 
 
