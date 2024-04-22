@@ -1,4 +1,4 @@
-# Patient-Waiting-List
+# Patient-Waiting-List [live project](https://app.powerbi.com/links/4h1FOftwBl?ctid=ae6b8ae8-c4ed-48a6-90ac-578b536f4451&pbi_source=linkShare)
 ![](waiting_area2.png)
 ## Introduction
 This is my first Power BI data analysis project, Did it as an introduction to the Power BI platform, intending to know the workings of the Power BI Query, Model, and visualization.
