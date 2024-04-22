@@ -18,5 +18,11 @@ Created a new table for the media and Average and another one for the  Mapping s
 | ![](mapping_specialty.png) | ![](calc_Methd.png)|
 |-----------------|------------------|
 
+### Data Modeling.
+Power BI automatically generated the model to show a relationship between the Mapping Speciality table and the All Data table
+![](tables.png)
+
+
+
 
 
