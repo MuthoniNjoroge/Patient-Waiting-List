@@ -1,7 +1,9 @@
 # Patient-Waiting-List [live project](https://app.powerbi.com/links/4h1FOftwBl?ctid=ae6b8ae8-c4ed-48a6-90ac-578b536f4451&pbi_source=linkShare)
 ![](waiting_area2.png)
 ## Introduction
-This is my first Power BI data analysis project, Did it as an introduction to the Power BI platform, intending to know the workings of the Power BI Query, Model, and visualization.
+
+In today's healthcare, efficient management of patient waiting lists is crucial for delivering timely and quality care. This project takes advantage of the capabilities of Power BI to track and analyze the current status and historical trends of patient waiting lists, with a specific focus on inpatient and outpatient categories from 2018 to 2022. By utilizing Key Performance Indicators (KPIs) and advanced visualizations, the project aims to provide actionable insights into the dynamics of patient flow in the hospital
+
 ### Problem Statement
 1. Tracking the current status of the patient waiting List.
 2. Analyze the historical monthly trend of the waiting list in inpatient and outpatient categories.
